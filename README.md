@@ -65,16 +65,16 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 4px">
 
+<a href="https://github.com/ZarkKang/yugan-base">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZarkKang&repo=yugan-base&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=true&show_forks=true&show_topics=true" />
+</a>
+
 <a href="https://github.com/ZarkKang/obsidian-workpage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZarkKang&repo=obsidian-workpage&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=true&show_forks=true&show_topics=true" />
 </a>
 
 <a href="https://github.com/ZarkKang/drone-inspection-patrol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZarkKang&repo=drone-inspection-patrol&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=true&show_forks=true&show_topics=true" />
-</a>
-
-<a href="https://github.com/ZarkKang/yugan-base">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZarkKang&repo=yugan-base&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=true&show_forks=true&show_topics=true" />
 </a>
 
 <a href="https://github.com/ZarkKang/drone-web">
@@ -85,7 +85,7 @@
 
 
 ---
-*Updated on September 30, 2026*
+*Updated on October 1, 2026*
 
 <!-- SHOWCASE-END -->
 
